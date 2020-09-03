@@ -16,7 +16,7 @@ package com.example.android.mygarden.provider;
  * limitations under the License.
  */
 
-import android.net.Uri;
+
 import android.provider.BaseColumns;
 
 public class PlantContract {
